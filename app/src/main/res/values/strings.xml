@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ticket</string>
+    <string name="Slogan">Kami siap melayani anda</string>
+    <string name="emojify_me">Emojify Me!</string>
+    <string name="no_emoji">No Emoji Expression Found</string>
+    <string name="delete_success">Images was deleted!</string>
+    <string name="delete_failure">Image deletion failed</string>
+    <string name="saved_message">Image Saved at %1$s</string>
+    <string name="not_saved">Image not saved!</string>
+    <string name="error">Error finding image</string>
+    <string name="go">GO</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="imageview_description">The imageview that contains the emojified picture</string>
+    <string name="no_faces_message">No Faces Detected</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
